@@ -1,0 +1,3 @@
+runtime = "python-3.11.6\n"
+with open(os.path.join(dst_dir, "runtime.txt"), "w", encoding="utf-8") as f:
+    f.write(runtime)

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Syed Saqib",
+    "email": "syedsaqib8585@gmail.com",
+    "class": "10th",
+    "roll_no": "11",
+    "school": "Green valley educational institute.",
+    "marks": "95%",
+    "password": "saqib6565",
+    "status": "approved",
+    "signup_date": "2025-08-21T17:31:40.100688",
+    "unit_marks": {
+      "unit_1": "100",
+      "unit_2": "100",
+      "unit_3": "100",
+      "unit_4": "100",
+      "unit_5": "100"
+    },
+    "custom_designs": [
+      {
+        "name": "ai_design_20250823_194936",
+        "display_name": "AI Design 19:49",
+        "description": "make a best design",
+        "style_preference": "modern",
+        "color_mood": "vibrant",
+        "color_palette": [
+          "#FF6B6B",
+          "#4ECDC4",
+          "#45B7D1",
+          "#96CEB4",
+          "#FFEAA7"
+        ],
+        "created_at": "2025-08-23T19:49:36.395065"
+      }
+    ]
+  }
+]
